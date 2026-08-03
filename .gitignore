@@ -1,2 +1,14 @@
 # Local Pi runtime state
 .atl/
+
+# Local tool indexes (regenerable)
+/.codegraph/
+
+# Python and local test/build artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+dist/
+build/
+*.egg-info/
