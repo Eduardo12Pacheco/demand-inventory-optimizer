@@ -1,5 +1,7 @@
 # Demand Inventory Optimizer
 
+> **Archived prototype** — superseded by [retail-demand-inventory-decision-engine](https://github.com/Eduardo12Pacheco/retail-demand-inventory-decision-engine). Kept because [ecuador-decision-intelligence-platform](https://github.com/Eduardo12Pacheco/ecuador-decision-intelligence-platform) pins commit `3b64776`.
+
 > Un producto de datos Python-primero para pronóstico de demanda **comparable y honesto**: ingestión de FreshRetailNet-50K, divisiones temporales deterministas, cuatro líneas base explicables y un benchmark real acotado con protocolo corregido. La simulación de políticas, la optimización y la recuperación de demanda latente siguen pendientes.
 
 **Estado:** `baseline-evaluation-v2` · `bounded-real-evaluation` · `demo-ready` — las conclusiones describen un benchmark acotado de 1.000 filas, **no** un modelo de producción ni una política de inventario.
